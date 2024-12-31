@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YZN</string>
+    <string name="enter">Email</string>
+    <string name="enter_email">example@tu.com</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="password">Password</string>
+    <string name="enter_password">********</string>
+    <string name="login">Login</string>
+    <string name="logo">Logo</string>
+    <string name="haveAccount">Already Have Account ?</string>
+    <string name="alreadyHaveAccount">Already Have Account ?</string>
+    <string name="dontHaveAccount">Don\'t Have Account ?</string>
+    <string name="signup">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="email">Email</string>
+    <string name="skip">Skip</string>
+    <string name="enable_location_updates">Enable Location Updates</string>
+    <string name="history">history</string>
+    <string name="logout">Logout</string>
+</resources>
